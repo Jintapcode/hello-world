@@ -1,2 +1,2 @@
 # hello-world
-tôi đang muốn tìm hiểu thêm về code
+xin chào tất cả mọi người
